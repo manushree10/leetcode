@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/manushree10/leetcode/tree/master/0866-rectangle-overlap) |
 | [2491-smallest-even-multiple](https://github.com/manushree10/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2536-determine-if-two-events-have-conflict](https://github.com/manushree10/leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/manushree10/leetcode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
