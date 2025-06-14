@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/manushree10/leetcode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/manushree10/leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Geometry
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/manushree10/leetcode/tree/master/1013-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
