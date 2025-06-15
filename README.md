@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/manushree10/leetcode/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/manushree10/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2491-smallest-even-multiple](https://github.com/manushree10/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2650-split-with-minimum-sum](https://github.com/manushree10/leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
+| [2650-split-with-minimum-sum](https://github.com/manushree10/leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/manushree10/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2650-split-with-minimum-sum](https://github.com/manushree10/leetcode/tree/master/2650-split-with-minimum-sum) |
 <!---LeetCode Topics End-->
