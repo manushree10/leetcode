@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/manushree10/leetcode/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/manushree10/leetcode/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/manushree10/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2037-count-square-sum-triples](https://github.com/manushree10/leetcode/tree/master/2037-count-square-sum-triples) |
 | [2491-smallest-even-multiple](https://github.com/manushree10/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2650-split-with-minimum-sum](https://github.com/manushree10/leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Number Theory
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manushree10/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Enumeration
+|  |
+| ------- |
+| [2037-count-square-sum-triples](https://github.com/manushree10/leetcode/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->
