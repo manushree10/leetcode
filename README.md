@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/manushree10/leetcode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/manushree10/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/manushree10/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/manushree10/leetcode/tree/master/0504-base-7) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manushree10/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/manushree10/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/manushree10/leetcode/tree/master/1054-complement-of-base-10-integer) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manushree10/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/manushree10/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
