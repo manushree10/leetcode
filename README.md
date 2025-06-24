@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/manushree10/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/manushree10/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/manushree10/leetcode/tree/master/1168-duplicate-zeros) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/manushree10/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/manushree10/leetcode/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/manushree10/leetcode/tree/master/1168-duplicate-zeros) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manushree10/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/manushree10/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manushree10/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2502-sort-the-people](https://github.com/manushree10/leetcode/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/manushree10/leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
