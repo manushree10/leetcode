@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/manushree10/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/manushree10/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/manushree10/leetcode/tree/master/0342-power-of-four) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manushree10/leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/manushree10/leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
