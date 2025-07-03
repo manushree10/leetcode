@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/manushree10/leetcode/tree/master/2037-count-square-sum-triples) |
 | [2491-smallest-even-multiple](https://github.com/manushree10/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2650-split-with-minimum-sum](https://github.com/manushree10/leetcode/tree/master/2650-split-with-minimum-sum) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/manushree10/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/manushree10/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/manushree10/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/manushree10/leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/manushree10/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/manushree10/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manushree10/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/manushree10/leetcode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/manushree10/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/manushree10/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/manushree10/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
