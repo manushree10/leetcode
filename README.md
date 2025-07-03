@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/manushree10/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/manushree10/leetcode/tree/master/0197-rising-temperature) |
 | [0610-triangle-judgement](https://github.com/manushree10/leetcode/tree/master/0610-triangle-judgement) |
+| [1179-game-play-analysis-i](https://github.com/manushree10/leetcode/tree/master/1179-game-play-analysis-i) |
 ## Array
 |  |
 | ------- |
