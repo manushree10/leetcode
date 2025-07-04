@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/manushree10/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/manushree10/leetcode/tree/master/0541-reverse-string-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/manushree10/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2502-sort-the-people](https://github.com/manushree10/leetcode/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/manushree10/leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3312-number-of-changing-keys](https://github.com/manushree10/leetcode/tree/master/3312-number-of-changing-keys) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/manushree10/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/manushree10/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
