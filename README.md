@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/manushree10/leetcode/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/manushree10/leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3312-number-of-changing-keys](https://github.com/manushree10/leetcode/tree/master/3312-number-of-changing-keys) |
+| [3379-score-of-a-string](https://github.com/manushree10/leetcode/tree/master/3379-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/manushree10/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Geometry
 |  |
