@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/manushree10/leetcode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/manushree10/leetcode/tree/master/3379-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/manushree10/leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3684-substring-matching-pattern](https://github.com/manushree10/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Geometry
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manushree10/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3684-substring-matching-pattern](https://github.com/manushree10/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Trie
 |  |
 | ------- |
