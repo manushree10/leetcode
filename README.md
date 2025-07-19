@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/manushree10/leetcode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/manushree10/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/manushree10/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/manushree10/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/manushree10/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manushree10/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manushree10/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
