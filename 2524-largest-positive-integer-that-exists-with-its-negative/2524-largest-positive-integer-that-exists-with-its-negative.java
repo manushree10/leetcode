@@ -24,16 +24,17 @@ class Solution {
        
     //    return -1;
      
-    Set<Integer> set = new HashSet<>();
-        int max = -1;
+    Set<Integer>s=new HashSet<>();
+      int maxx=-1;
+      for(int num:nums)
+      {
+        if(s.contains(-num))
+        {
+            maxx= Math.max(maxx,Math.abs(num));
 
-        for (int num : nums) {
-            if (set.contains(-num)) {
-                max = Math.max(max, Math.abs(num));
-            }
-            set.add(num);
         }
-
-        return max;
+        s.add(num);
+      }
+      return maxx;
     }
-} 
+}
