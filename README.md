@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/manushree10/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/manushree10/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manushree10/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/manushree10/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manushree10/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manushree10/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/manushree10/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/manushree10/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/manushree10/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/manushree10/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/manushree10/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manushree10/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manushree10/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/manushree10/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
