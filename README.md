@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/manushree10/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manushree10/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/manushree10/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/manushree10/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manushree10/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manushree10/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/manushree10/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/manushree10/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/manushree10/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/manushree10/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manushree10/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/manushree10/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Counting Sort
 |  |
 | ------- |
