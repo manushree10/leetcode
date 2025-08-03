@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manushree10/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2502-sort-the-people](https://github.com/manushree10/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/manushree10/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/manushree10/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/manushree10/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/manushree10/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/manushree10/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/manushree10/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/manushree10/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/manushree10/leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Database
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/manushree10/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/manushree10/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/manushree10/leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2561-number-of-distinct-averages](https://github.com/manushree10/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manushree10/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/manushree10/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/manushree10/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/manushree10/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/manushree10/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/manushree10/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/manushree10/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2650-split-with-minimum-sum](https://github.com/manushree10/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/manushree10/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Dynamic Programming
