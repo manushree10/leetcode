@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/manushree10/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/manushree10/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/manushree10/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/manushree10/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manushree10/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manushree10/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/manushree10/leetcode/tree/master/2634-minimum-common-value) |
+| [3790-fruits-into-baskets-ii](https://github.com/manushree10/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/manushree10/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/manushree10/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/manushree10/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/manushree10/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -456,4 +459,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/manushree10/leetcode/tree/master/1039-find-the-town-judge) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/manushree10/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/manushree10/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
