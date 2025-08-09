@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/manushree10/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/manushree10/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/manushree10/leetcode/tree/master/2634-minimum-common-value) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/manushree10/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manushree10/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/manushree10/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/manushree10/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/manushree10/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/manushree10/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/manushree10/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/manushree10/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/manushree10/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manushree10/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/manushree10/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manushree10/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/manushree10/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/manushree10/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/manushree10/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/manushree10/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
