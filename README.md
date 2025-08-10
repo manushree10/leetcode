@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/manushree10/leetcode/tree/master/0507-perfect-number) |
 | [0866-rectangle-overlap](https://github.com/manushree10/leetcode/tree/master/0866-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/manushree10/leetcode/tree/master/0900-reordered-power-of-2) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/manushree10/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1010-powerful-integers](https://github.com/manushree10/leetcode/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/manushree10/leetcode/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/manushree10/leetcode/tree/master/1115-valid-boomerang) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/manushree10/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2491-smallest-even-multiple](https://github.com/manushree10/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/manushree10/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/manushree10/leetcode/tree/master/0940-fruit-into-baskets) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/manushree10/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1010-powerful-integers](https://github.com/manushree10/leetcode/tree/master/1010-powerful-integers) |
 | [1039-find-the-town-judge](https://github.com/manushree10/leetcode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/manushree10/leetcode/tree/master/1217-relative-sort-array) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/manushree10/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0940-fruit-into-baskets](https://github.com/manushree10/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/manushree10/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/manushree10/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0958-sort-array-by-parity-ii](https://github.com/manushree10/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/manushree10/leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/manushree10/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/manushree10/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/manushree10/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/manushree10/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manushree10/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/manushree10/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manushree10/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
