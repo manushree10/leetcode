@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/manushree10/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manushree10/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/manushree10/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/manushree10/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manushree10/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/manushree10/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/manushree10/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/manushree10/leetcode/tree/master/0455-assign-cookies) |
 | [0979-di-string-match](https://github.com/manushree10/leetcode/tree/master/0979-di-string-match) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/manushree10/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/manushree10/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manushree10/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manushree10/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/manushree10/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
