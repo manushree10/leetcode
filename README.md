@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/manushree10/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0958-sort-array-by-parity-ii](https://github.com/manushree10/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/manushree10/leetcode/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/manushree10/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/manushree10/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/manushree10/leetcode/tree/master/1039-find-the-town-judge) |
 | [1115-valid-boomerang](https://github.com/manushree10/leetcode/tree/master/1115-valid-boomerang) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/manushree10/leetcode/tree/master/0541-reverse-string-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/manushree10/leetcode/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/manushree10/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/manushree10/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manushree10/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1904-second-largest-digit-in-a-string](https://github.com/manushree10/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
