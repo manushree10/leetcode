@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/manushree10/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manushree10/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/manushree10/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/manushree10/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/manushree10/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/manushree10/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/manushree10/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manushree10/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manushree10/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manushree10/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/manushree10/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/manushree10/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manushree10/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/manushree10/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/manushree10/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/manushree10/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/manushree10/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/manushree10/leetcode/tree/master/0231-power-of-two) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/manushree10/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/manushree10/leetcode/tree/master/0412-fizz-buzz) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/manushree10/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/manushree10/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
