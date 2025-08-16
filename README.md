@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/manushree10/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manushree10/leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/manushree10/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/manushree10/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/manushree10/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/manushree10/leetcode/tree/master/0507-perfect-number) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/manushree10/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/manushree10/leetcode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manushree10/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/manushree10/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/manushree10/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/manushree10/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manushree10/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/manushree10/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/manushree10/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/manushree10/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/manushree10/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/manushree10/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manushree10/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
