@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/manushree10/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/manushree10/leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/manushree10/leetcode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/manushree10/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/manushree10/leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/manushree10/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
