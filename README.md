@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/manushree10/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manushree10/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manushree10/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1628-count-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/manushree10/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/manushree10/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/manushree10/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/manushree10/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/manushree10/leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/manushree10/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/manushree10/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Recursion
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/manushree10/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/manushree10/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manushree10/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/manushree10/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manushree10/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Tree
 |  |
 | ------- |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manushree10/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/manushree10/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/manushree10/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/manushree10/leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
