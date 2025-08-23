@@ -1,11 +1,17 @@
 class Solution {
     public int minimumCost(int[] nums) {
-        // int n=nums.length;
-        // int sum=nums[0];
-        // Arrays.sort(nums,1,n);
-        // sum=sum+nums[1]+nums[2];
+        // int cost = 0; 
+        
+        // cost += nums[0];
+        
+        // nums[0] = Integer.MAX_VALUE; 
 
-        // return sum;
+        // Arrays.sort(nums);
+
+        // cost += nums[0];
+        // cost += nums[1];
+
+        // return cost; 
         int sum=nums[0],min1=Integer.MAX_VALUE,min2=Integer.MAX_VALUE;
         for(int i=1;i<nums.length;i++)
         {
