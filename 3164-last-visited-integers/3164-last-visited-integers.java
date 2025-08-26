@@ -17,6 +17,7 @@ class Solution {
             else
             {
                 ans.add(seen.get(--k));
+                
             }
         }
         return ans;
