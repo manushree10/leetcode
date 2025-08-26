@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/manushree10/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/manushree10/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0991-array-of-doubled-pairs](https://github.com/manushree10/leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1010-powerful-integers](https://github.com/manushree10/leetcode/tree/master/1010-powerful-integers) |
 | [1039-find-the-town-judge](https://github.com/manushree10/leetcode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/manushree10/leetcode/tree/master/1217-relative-sort-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/manushree10/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/manushree10/leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/manushree10/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [0991-array-of-doubled-pairs](https://github.com/manushree10/leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1019-squares-of-a-sorted-array](https://github.com/manushree10/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/manushree10/leetcode/tree/master/1039-find-the-town-judge) |
 | [1115-valid-boomerang](https://github.com/manushree10/leetcode/tree/master/1115-valid-boomerang) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/manushree10/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/manushree10/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/manushree10/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0991-array-of-doubled-pairs](https://github.com/manushree10/leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1019-squares-of-a-sorted-array](https://github.com/manushree10/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/manushree10/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/manushree10/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/manushree10/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/manushree10/leetcode/tree/master/0455-assign-cookies) |
 | [0979-di-string-match](https://github.com/manushree10/leetcode/tree/master/0979-di-string-match) |
+| [0991-array-of-doubled-pairs](https://github.com/manushree10/leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1448-maximum-69-number](https://github.com/manushree10/leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/manushree10/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/manushree10/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
