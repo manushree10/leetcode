@@ -20,16 +20,16 @@ class Solution {
             if (entry.getKey() >= 0) {
                 v.sort(Collections.reverseOrder()); 
             } else {
-                Collections.sort(v); // ascending
+                Collections.sort(v); 
             }
         }
 
-        // Refill grid from diagonals
+        
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 int key = i - j;
                 List<Integer> l = map.get(key);
-                grid[i][j] = l.remove(0); // pop first element
+                grid[i][j] = l.remove(0); 
             }
         }
 
