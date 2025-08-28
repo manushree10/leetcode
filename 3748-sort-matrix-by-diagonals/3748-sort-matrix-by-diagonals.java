@@ -5,7 +5,7 @@ class Solution {
         int n = grid.length, m = grid[0].length;
         Map<Integer, List<Integer>> map = new HashMap<>();
 
-        // Collect elements by diagonal (i - j)
+        
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 int key = i - j;
@@ -14,11 +14,11 @@ class Solution {
             }
         }
 
-        // Sort diagonals
+        
         for (Map.Entry<Integer, List<Integer>> entry : map.entrySet()) {
             List<Integer> v = entry.getValue();
             if (entry.getKey() >= 0) {
-                v.sort(Collections.reverseOrder()); // descending
+                v.sort(Collections.reverseOrder()); 
             } else {
                 Collections.sort(v); // ascending
             }
