@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/manushree10/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/manushree10/leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/manushree10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manushree10/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/manushree10/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/manushree10/leetcode/tree/master/0389-find-the-difference) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manushree10/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/manushree10/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manushree10/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/manushree10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manushree10/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/manushree10/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/manushree10/leetcode/tree/master/0443-string-compression) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/manushree10/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manushree10/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/manushree10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manushree10/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/manushree10/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manushree10/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manushree10/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/manushree10/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/manushree10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manushree10/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manushree10/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/manushree10/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/manushree10/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/manushree10/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/manushree10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manushree10/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/manushree10/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/manushree10/leetcode/tree/master/0414-third-maximum-number) |
