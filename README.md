@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/manushree10/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/manushree10/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/manushree10/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/manushree10/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manushree10/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manushree10/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/manushree10/leetcode/tree/master/0118-pascals-triangle) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/manushree10/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manushree10/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/manushree10/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/manushree10/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/manushree10/leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manushree10/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
