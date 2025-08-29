@@ -4,12 +4,8 @@ class Solution {
         {
             return 0;
         }
+        Arrays.sort(nums);
         int min=nums[0];
-        for(int n:nums)
-        {
-            min=Math.min(min,n);
-
-        }
         int res=0;
         for(int s:nums)
         {
