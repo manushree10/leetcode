@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/manushree10/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2650-split-with-minimum-sum](https://github.com/manushree10/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2722-prime-in-diagonal](https://github.com/manushree10/leetcode/tree/master/2722-prime-in-diagonal) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/manushree10/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manushree10/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/manushree10/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
