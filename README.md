@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/manushree10/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/manushree10/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manushree10/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0777-toeplitz-matrix](https://github.com/manushree10/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/manushree10/leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/manushree10/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/manushree10/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/manushree10/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/manushree10/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/manushree10/leetcode/tree/master/0498-diagonal-traverse) |
+| [0777-toeplitz-matrix](https://github.com/manushree10/leetcode/tree/master/0777-toeplitz-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manushree10/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
