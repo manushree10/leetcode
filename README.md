@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/manushree10/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/manushree10/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/manushree10/leetcode/tree/master/1811-fix-names-in-a-table) |
+| [1827-invalid-tweets](https://github.com/manushree10/leetcode/tree/master/1827-invalid-tweets) |
 ## Array
 |  |
 | ------- |
