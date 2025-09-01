@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/manushree10/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/manushree10/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/manushree10/leetcode/tree/master/0696-count-binary-substrings) |
+| [0742-to-lower-case](https://github.com/manushree10/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/manushree10/leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/manushree10/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
