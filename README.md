@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/manushree10/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/manushree10/leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/manushree10/leetcode/tree/master/1942-primary-department-for-each-employee) |
+| [1948-rearrange-products-table](https://github.com/manushree10/leetcode/tree/master/1948-rearrange-products-table) |
 ## Array
 |  |
 | ------- |
