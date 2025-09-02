@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 SELECT employee_id,salary as bonus
 FROM employees
-WHERE employee_id%2<>0 and name NOT LIKE 'M%'
+WHERE employee_id%2=1 and name NOT LIKE 'M%'
 
 UNION
 
