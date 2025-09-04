@@ -22,10 +22,10 @@ class Solution {
          {
             area=(r-l)*Math.min(height[l],height[r]);
             maxx=Math.max(maxx,area);
-         if(height[l]<height[r]){
+           if(height[l]<height[r]){
             l++;
-         }
-         else{
+           }
+           else  {
             r--;
          }
          }
