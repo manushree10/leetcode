@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manushree10/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1894-merge-strings-alternately](https://github.com/manushree10/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/manushree10/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/manushree10/leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/manushree10/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/manushree10/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/manushree10/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/manushree10/leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/manushree10/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/manushree10/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/manushree10/leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manushree10/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/manushree10/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manushree10/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
