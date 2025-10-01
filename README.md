@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/manushree10/leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/manushree10/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/manushree10/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/manushree10/leetcode/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manushree10/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/manushree10/leetcode/tree/master/2037-count-square-sum-triples) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/manushree10/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/manushree10/leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/manushree10/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/manushree10/leetcode/tree/master/0682-baseball-game) |
+| [1642-water-bottles](https://github.com/manushree10/leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/manushree10/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/manushree10/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/manushree10/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
