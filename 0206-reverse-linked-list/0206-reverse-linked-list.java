@@ -10,6 +10,17 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        //   ListNode node = null;
+
+        // while (head != null) {
+        //     ListNode temp = head.next;
+        //     head.next = node;
+        //     node = head;
+        //     head = temp;
+        // }
+
+        // return node; 
+
         ListNode prev = null;
         ListNode curr = head;
         
@@ -23,12 +34,4 @@ class Solution {
         return prev; // New head of reversed list
     }
     
-    public static void printList(ListNode head) {
-        while (head != null) {
-            System.out.print(head.val + " -> ");
-            head = head.next;
-        }
-        System.out.println("null");
-    }
-    
-    }
+}  
