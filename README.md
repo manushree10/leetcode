@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-minimum-operations-to-collect-elements](https://github.com/manushree10/leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manushree10/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/manushree10/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/manushree10/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manushree10/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/manushree10/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/manushree10/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/manushree10/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/manushree10/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/manushree10/leetcode/tree/master/2634-minimum-common-value) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/manushree10/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Database
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/manushree10/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/manushree10/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/manushree10/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/manushree10/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/manushree10/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manushree10/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3723-sum-of-good-numbers](https://github.com/manushree10/leetcode/tree/master/3723-sum-of-good-numbers) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manushree10/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manushree10/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/manushree10/leetcode/tree/master/2634-minimum-common-value) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/manushree10/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/manushree10/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/manushree10/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/manushree10/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/manushree10/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/manushree10/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/manushree10/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
@@ -592,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manushree10/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/manushree10/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/manushree10/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/manushree10/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/manushree10/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Recursion
 |  |
@@ -623,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/manushree10/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manushree10/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manushree10/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/manushree10/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/manushree10/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/manushree10/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
