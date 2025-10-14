@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/manushree10/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/manushree10/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manushree10/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/manushree10/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3723-sum-of-good-numbers](https://github.com/manushree10/leetcode/tree/master/3723-sum-of-good-numbers) |
 | [3748-sort-matrix-by-diagonals](https://github.com/manushree10/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/manushree10/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
