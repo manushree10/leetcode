@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/manushree10/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/manushree10/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1904-second-largest-digit-in-a-string](https://github.com/manushree10/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2122-count-special-quadruplets](https://github.com/manushree10/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/manushree10/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manushree10/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/manushree10/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/manushree10/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/manushree10/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manushree10/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/manushree10/leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/manushree10/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/manushree10/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manushree10/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/manushree10/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/manushree10/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manushree10/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manushree10/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/manushree10/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/manushree10/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manushree10/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/manushree10/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
 |  |
