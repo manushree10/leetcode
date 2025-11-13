@@ -1,11 +1,11 @@
 class Solution {
     public int maxOperations(String s) {
-        int ones = 0, res = 0;
+        int one = 0, res = 0;
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '1')
-                ones++;
+                one++;
             else if (i > 0 && s.charAt(i - 1) == '1')
-                res += ones;
+                res += one;
         }
         return res;
     }
