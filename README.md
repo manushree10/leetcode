@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/manushree10/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1904-second-largest-digit-in-a-string](https://github.com/manushree10/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1905-design-authentication-manager](https://github.com/manushree10/leetcode/tree/master/1905-design-authentication-manager) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/manushree10/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2122-count-special-quadruplets](https://github.com/manushree10/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/manushree10/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/manushree10/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/manushree10/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/manushree10/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/manushree10/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manushree10/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/manushree10/leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/manushree10/leetcode/tree/master/0645-set-mismatch) |
 | [1054-complement-of-base-10-integer](https://github.com/manushree10/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manushree10/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/manushree10/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manushree10/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/manushree10/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/manushree10/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -918,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/manushree10/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/manushree10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/manushree10/leetcode/tree/master/0724-find-pivot-index) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/manushree10/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manushree10/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/manushree10/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3311-ant-on-the-boundary](https://github.com/manushree10/leetcode/tree/master/3311-ant-on-the-boundary) |
