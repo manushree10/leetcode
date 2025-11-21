@@ -28,3 +28,25 @@ class Solution {
         return seen.size();
     }
 }
+        //  int n = s.length();
+        // int result = 0;
+
+        // for (char c = 'a'; c <= 'z'; c++) {
+
+        //     int left = s.indexOf(c);
+        //     int right = s.lastIndexOf(c);
+
+        //     if (left == -1 || right == -1 || left == right)
+        //         continue;
+
+        //     boolean[] seen = new boolean[26];
+
+        //     for (int i = left + 1; i < right; i++) {
+        //         seen[s.charAt(i) - 'a'] = true;
+        //     }
+
+        //     for (boolean b : seen)
+        //         if (b) result++;
+        // }
+
+        // return result;
