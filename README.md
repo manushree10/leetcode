@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manushree10/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/manushree10/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manushree10/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2293-min-max-game](https://github.com/manushree10/leetcode/tree/master/2293-min-max-game) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/manushree10/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/manushree10/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/manushree10/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manushree10/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manushree10/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/manushree10/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2293-min-max-game](https://github.com/manushree10/leetcode/tree/master/2293-min-max-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/manushree10/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/manushree10/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manushree10/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
