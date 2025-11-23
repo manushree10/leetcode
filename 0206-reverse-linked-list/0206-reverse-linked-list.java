@@ -21,17 +21,30 @@ class Solution {
 
         // return node; 
 
-        ListNode prev = null;
-        ListNode curr = head;
+//         ListNode prev = null;
+//         ListNode curr = head;
         
-        while (curr != null) {
-            ListNode nextNode = curr.next; // Store next node
-            curr.next = prev; // Reverse link
-            prev = curr; // Move prev to current node
-            curr = nextNode; // Move to next node
-        }
+//         while (curr != null) {
+//             ListNode nextNode = curr.next; // Store next node
+//             curr.next = prev; // Reverse link
+//             prev = curr; // Move prev to current node
+//             curr = nextNode; // Move to next node
+//         }
         
-        return prev; // New head of reversed list
-    }
+//         return prev; // New head of reversed list
+//     }
     
-}  
+// }  
+ ListNode prev=null;
+ ListNode cur= head;
+ ListNode next;
+ while(cur!=null)
+ {
+    next=cur.next;
+    cur.next=prev;
+    prev=cur;
+    cur=next;
+ }
+ return prev;
+    }
+}
