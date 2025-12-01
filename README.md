@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/manushree10/leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/manushree10/leetcode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/manushree10/leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/manushree10/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1153-product-sales-analysis-i](https://github.com/manushree10/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/manushree10/leetcode/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/manushree10/leetcode/tree/master/1174-sales-analysis-iii) |
