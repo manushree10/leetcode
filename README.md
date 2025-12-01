@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/manushree10/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/manushree10/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manushree10/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/manushree10/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manushree10/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/manushree10/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/manushree10/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/manushree10/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/manushree10/leetcode/tree/master/0792-binary-search) |
 | [1612-avoid-flood-in-the-city](https://github.com/manushree10/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/manushree10/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/manushree10/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manushree10/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manushree10/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manushree10/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/manushree10/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/manushree10/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/manushree10/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manushree10/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manushree10/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manushree10/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/manushree10/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/manushree10/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/manushree10/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/manushree10/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/manushree10/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/manushree10/leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manushree10/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
