@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/manushree10/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/manushree10/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/manushree10/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/manushree10/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manushree10/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/manushree10/leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/manushree10/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
