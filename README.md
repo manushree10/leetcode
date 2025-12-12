@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/manushree10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/manushree10/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/manushree10/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/manushree10/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/manushree10/leetcode/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/manushree10/leetcode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/manushree10/leetcode/tree/master/0782-jewels-and-stones) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/manushree10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/manushree10/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/manushree10/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/manushree10/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/manushree10/leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/manushree10/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/manushree10/leetcode/tree/master/0645-set-mismatch) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/manushree10/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/manushree10/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/manushree10/leetcode/tree/master/0551-student-attendance-record-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/manushree10/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/manushree10/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/manushree10/leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/manushree10/leetcode/tree/master/0742-to-lower-case) |
