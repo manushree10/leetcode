@@ -11,9 +11,7 @@ class Solution {
         for(int i=0;i<k;i++)
         {
          minn+=nums[i];   
-        }
-       for(int i=0;i<k;i++)
-        {
+       
             maxx+=nums[n-1-i];
         }
         return Math.abs(maxx-minn);
