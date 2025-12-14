@@ -1,19 +1,10 @@
 class Solution {
     public int distributeCandies(int[] candyType) {
-        int cnt=0;
-        int n=candyType.length;
         Set<Integer>set=new HashSet<>();
-          for(int i=0;i<n;i++)
-          {
-            set.add(candyType[i]);
-          }
-
-        cnt=n/2;
-        if(set.size()<cnt)
+        for(int num:candyType)
         {
-            return set.size();
+            set.add(num);
         }
-
-        return cnt;
+        return set.size()>=candyType.length / 2?candyType.length/2:set.size();
     }
 }
