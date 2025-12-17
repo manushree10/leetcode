@@ -1,11 +1,11 @@
 class Solution {
     public boolean validMountainArray(int[] arr) {
-        int n=arr.length;
-        if(n<3)
+        if(arr.length<3)
         {
-            return false;
+           return false;
         }
         int mid=0;
+      int   n=arr.length;
         for(int i=1;i<n-1;i++)
         {
             if(arr[i]>arr[i-1] && arr[i]>arr[i+1])
@@ -14,7 +14,7 @@ class Solution {
                 break;
             }
         }
-        if(mid==0|| mid==n-1)
+        if(mid==0 || mid==n-1)
         {
             return false;
         }
@@ -24,7 +24,6 @@ class Solution {
             {
                 return false;
             }
-
         }
         for(int i=mid;i<n-1;i++)
         {
@@ -32,9 +31,7 @@ class Solution {
             {
                 return false;
             }
-
         }
-        
         return true;
     }
 }
