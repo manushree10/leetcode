@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manushree10/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/manushree10/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/manushree10/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/manushree10/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/manushree10/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manushree10/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/manushree10/leetcode/tree/master/0169-majority-element) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/manushree10/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/manushree10/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manushree10/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/manushree10/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/manushree10/leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/manushree10/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/manushree10/leetcode/tree/master/0322-coin-change) |
