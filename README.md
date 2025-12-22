@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manushree10/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/manushree10/leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/manushree10/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manushree10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manushree10/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/manushree10/leetcode/tree/master/0383-ransom-note) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manushree10/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/manushree10/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/manushree10/leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/manushree10/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manushree10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manushree10/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/manushree10/leetcode/tree/master/0414-third-maximum-number) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/manushree10/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/manushree10/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/manushree10/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manushree10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manushree10/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/manushree10/leetcode/tree/master/0389-find-the-difference) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/manushree10/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manushree10/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/manushree10/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/manushree10/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manushree10/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/manushree10/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -861,10 +865,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/manushree10/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manushree10/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/manushree10/leetcode/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/manushree10/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manushree10/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/manushree10/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/manushree10/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1612-avoid-flood-in-the-city](https://github.com/manushree10/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manushree10/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1044,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/manushree10/leetcode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/manushree10/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1072,4 +1079,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/manushree10/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/manushree10/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
