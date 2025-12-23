@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/manushree10/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1635-number-of-good-pairs](https://github.com/manushree10/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/manushree10/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/manushree10/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1905-design-authentication-manager](https://github.com/manushree10/leetcode/tree/master/1905-design-authentication-manager) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/manushree10/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manushree10/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manushree10/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/manushree10/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1894-merge-strings-alternately](https://github.com/manushree10/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/manushree10/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/manushree10/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/manushree10/leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manushree10/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/manushree10/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/manushree10/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manushree10/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -894,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/manushree10/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manushree10/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manushree10/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/manushree10/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/manushree10/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
