@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/manushree10/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/manushree10/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/manushree10/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manushree10/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/manushree10/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/manushree10/leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/manushree10/leetcode/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/manushree10/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/manushree10/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/manushree10/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/manushree10/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/manushree10/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manushree10/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manushree10/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/manushree10/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/manushree10/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/manushree10/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/manushree10/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/manushree10/leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/manushree10/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/manushree10/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manushree10/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/manushree10/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3311-ant-on-the-boundary](https://github.com/manushree10/leetcode/tree/master/3311-ant-on-the-boundary) |
