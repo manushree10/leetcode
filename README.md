@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/manushree10/leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/manushree10/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0991-array-of-doubled-pairs](https://github.com/manushree10/leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/manushree10/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/manushree10/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manushree10/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/manushree10/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manushree10/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/manushree10/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/manushree10/leetcode/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/manushree10/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/manushree10/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/manushree10/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/manushree10/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/manushree10/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/manushree10/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/manushree10/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/manushree10/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/manushree10/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manushree10/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manushree10/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/manushree10/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/manushree10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/manushree10/leetcode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/manushree10/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/manushree10/leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/manushree10/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manushree10/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
