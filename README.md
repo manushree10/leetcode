@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/manushree10/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/manushree10/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/manushree10/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/manushree10/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/manushree10/leetcode/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/manushree10/leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2887-sort-vowels-in-a-string](https://github.com/manushree10/leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -1031,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/manushree10/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/manushree10/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manushree10/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/manushree10/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/manushree10/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3311-ant-on-the-boundary](https://github.com/manushree10/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/manushree10/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
