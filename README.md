@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manushree10/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manushree10/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manushree10/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1528-shuffle-string](https://github.com/manushree10/leetcode/tree/master/1528-shuffle-string) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/manushree10/leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/manushree10/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manushree10/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/manushree10/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manushree10/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manushree10/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/manushree10/leetcode/tree/master/1528-shuffle-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manushree10/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/manushree10/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/manushree10/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
