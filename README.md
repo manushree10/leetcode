@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/manushree10/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/manushree10/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/manushree10/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1920-build-array-from-permutation](https://github.com/manushree10/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/manushree10/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manushree10/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/manushree10/leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/manushree10/leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manushree10/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/manushree10/leetcode/tree/master/1642-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/manushree10/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/manushree10/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/manushree10/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manushree10/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
