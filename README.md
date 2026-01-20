@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/manushree10/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/manushree10/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3311-ant-on-the-boundary](https://github.com/manushree10/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/manushree10/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/manushree10/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/manushree10/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/manushree10/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/manushree10/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manushree10/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/manushree10/leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/manushree10/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/manushree10/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/manushree10/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/manushree10/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
