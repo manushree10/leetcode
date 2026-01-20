@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/manushree10/leetcode/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/manushree10/leetcode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/manushree10/leetcode/tree/master/0782-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/manushree10/leetcode/tree/master/0859-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/manushree10/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0930-binary-subarrays-with-sum](https://github.com/manushree10/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/manushree10/leetcode/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/manushree10/leetcode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/manushree10/leetcode/tree/master/0782-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/manushree10/leetcode/tree/master/0859-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/manushree10/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/manushree10/leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/manushree10/leetcode/tree/master/0979-di-string-match) |
