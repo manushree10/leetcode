@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/manushree10/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/manushree10/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/manushree10/leetcode/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/manushree10/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/manushree10/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/manushree10/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/manushree10/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manushree10/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/manushree10/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/manushree10/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/manushree10/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/manushree10/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/manushree10/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/manushree10/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manushree10/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manushree10/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/manushree10/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/manushree10/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -1039,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/manushree10/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manushree10/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manushree10/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/manushree10/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/manushree10/leetcode/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
