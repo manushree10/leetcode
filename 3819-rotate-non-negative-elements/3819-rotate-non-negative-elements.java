@@ -7,7 +7,8 @@ class Solution {
         {
             if(nums[i]>=0)
             {
-                pos[m++]=nums[i];
+                pos[m]=nums[i];
+                m++;
             }
         }
         if(m==0)
@@ -17,7 +18,11 @@ class Solution {
         k=k%m;
         for(int i=0,j=0;i<n;i++)
         {
-            if(nums[i]>=0)nums[i]=pos[(j++ + k) % m];
+            if(nums[i]>=0)
+            {
+                nums[i]=pos[(j + k) % m];
+                   j++;
+            }
         }
         return nums;
     }
