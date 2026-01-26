@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/manushree10/leetcode/tree/master/1039-find-the-town-judge) |
 | [1115-valid-boomerang](https://github.com/manushree10/leetcode/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/manushree10/leetcode/tree/master/1168-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/manushree10/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/manushree10/leetcode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/manushree10/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/manushree10/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/manushree10/leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1018-largest-perimeter-triangle](https://github.com/manushree10/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/manushree10/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/manushree10/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/manushree10/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/manushree10/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manushree10/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
