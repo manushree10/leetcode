@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manushree10/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/manushree10/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/manushree10/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/manushree10/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manushree10/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manushree10/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/manushree10/leetcode/tree/master/0118-pascals-triangle) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/manushree10/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manushree10/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manushree10/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/manushree10/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/manushree10/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manushree10/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/manushree10/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manushree10/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manushree10/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/manushree10/leetcode/tree/master/0079-word-search) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manushree10/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/manushree10/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/manushree10/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/manushree10/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manushree10/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/manushree10/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manushree10/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -1052,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/manushree10/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/manushree10/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/manushree10/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/manushree10/leetcode/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/manushree10/leetcode/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/manushree10/leetcode/tree/master/0777-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manushree10/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
