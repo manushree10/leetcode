@@ -1,21 +1,10 @@
 class Solution {
     public int reverse(int x) {
-        boolean isNegative = x < 0;
-        x = Math.abs(x);
-        int rev = 0;
-
-        while (x != 0) {
-            int rem = x % 10;
-
-            // Check overflow before multiplying
-            if (rev > (Integer.MAX_VALUE - rem) / 10) {
-                return 0; // Overflow case
-            }
-
-            rev = rev * 10 + rem;
-            x /= 10;
-        }
-
-        return isNegative ? -rev : rev;
+        long ans = 0;
+while (x != 0) {
+    ans = ans * 10 + x % 10;
+    x /= 10;
+}
+return (ans < Integer.MIN_VALUE || ans > Integer.MAX_VALUE) ? 0 : (int) ans;
     }
 }
