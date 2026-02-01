@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/manushree10/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/manushree10/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/manushree10/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/manushree10/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/manushree10/leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/manushree10/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3164-last-visited-integers](https://github.com/manushree10/leetcode/tree/master/3164-last-visited-integers) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/manushree10/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/manushree10/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/manushree10/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/manushree10/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/manushree10/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/manushree10/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/manushree10/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/manushree10/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manushree10/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/manushree10/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/manushree10/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/manushree10/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/manushree10/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/manushree10/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
