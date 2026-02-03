@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/manushree10/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/manushree10/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/manushree10/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3637-trionic-array-i](https://github.com/manushree10/leetcode/tree/master/3637-trionic-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/manushree10/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3723-sum-of-good-numbers](https://github.com/manushree10/leetcode/tree/master/3723-sum-of-good-numbers) |
 | [3748-sort-matrix-by-diagonals](https://github.com/manushree10/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
