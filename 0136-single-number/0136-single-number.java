@@ -6,23 +6,39 @@ class Solution {
         //     n^=num;
         // }
         // return n;
-        int n=nums.length;
-        int cnt=0;
-        for(int i=0;i<n;i++)
-        {
-            cnt=0;
-            for(int j=0;j<n;j++)
-            {
-                if(nums[i]==nums[j])
-                {
-                    cnt++;
-                }
-            }
-                if(cnt==1)
-                {
-                    return nums[i];
-                }
+        // int n=nums.length;
+        // int cnt=0;
+        // for(int i=0;i<n;i++)
+        // {
+        //     cnt=0;
+        //     for(int j=0;j<n;j++)
+        //     {
+        //         if(nums[i]==nums[j])
+        //         {
+        //             cnt++;
+        //         }
+        //     }
+        //         if(cnt==1)
+        //         {
+        //             return nums[i];
+        //         }
             
+        // }
+        // return -1;
+        int n=nums.length;
+    Map<Integer,Integer>freq=new HashMap<>();
+        for(int num:nums)
+        {
+            freq.put(num,freq.getOrDefault(num,0)+1);
+        }
+        for(Map.Entry<Integer,Integer>en:freq.entrySet())
+        {
+            int val=en.getValue();
+            int key=en.getKey();
+            if(val==1)
+            {
+                return key;
+            }
         }
         return -1;
     }   
