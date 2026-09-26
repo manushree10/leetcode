@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/manushree10/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manushree10/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/manushree10/leetcode/tree/master/3830-find-closest-person) |
+| [3870-count-commas-in-range](https://github.com/manushree10/leetcode/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
 | ------- |
